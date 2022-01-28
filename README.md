@@ -1,19 +1,15 @@
 [![JUDU](bla.svg)](https://github.com/JUDU-13)
-<h1 align='center'> Hi! 👋</h1>
-<p style=font-size:25px; align='center'>
-I'm Jaidon Gill Shajan
-</p>
 
-
+## Hello Guys🥳👨‍💻 , I'm Jaidon Gill Shajan
 * I'm Btech Student
+* Artificial Intelligence and Data Science
 * Programmer 
 * Video Editor
-* Currently Learning C , JAVA, Python .
+* Currently Learning C , JAVA, Python,Premiere Pro, After Effects, DaVinci Resolve .
 
 
 
 
 
 
-<h1 align='center'><i>Stay awesome!</i></h1>
 
