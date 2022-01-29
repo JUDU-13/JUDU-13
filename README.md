@@ -19,16 +19,23 @@
 
 ## Tools
 <p align="center">
-<img src="https://img.icons8.com/color/90/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/90/000000/adobe-premiere-pro--v1.png"/>
-<img src="https://img.icons8.com/color/90/000000/adobe-after-effects--v1.png"/>
-<img src="https://img.icons8.com/color/90/000000/davinci-resolve--v1.png"/>
-<img src="https://img.icons8.com/ios-filled/90/000000/obs-studio.png"/>
-
+<img src="https://img.icons8.com/color/80/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/80/000000/adobe-premiere-pro--v1.png"/>
+<img src="https://img.icons8.com/color/80/000000/adobe-after-effects--v1.png"/>
+<img src="https://img.icons8.com/color/80/000000/davinci-resolve--v1.png"/>
+<img src="https://img.icons8.com/ios-filled/80/000000/obs-studio.png"/>
+<img src="https://img.icons8.com/color/80/000000/audacity.png"/>
+<img src="https://img.icons8.com/ios-filled/80/000000/unity.png"/>
 </p>
 
 
 ## Programming Languages
+<img src="https://img.icons8.com/color/80/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/80/000000/java-coffee-cup-logo--v2.png"/>
+<img src="https://img.icons8.com/color/80/000000/python--v2.png"/>
+<img src="https://img.icons8.com/color/80/000000/c-programming.png"/>
+<img src="https://img.icons8.com/plasticine/80/000000/microsoft-visual-basic-6.png"/>
+<img src="https://img.icons8.com/color/80/000000/kotlin.png"/>
 
 <br/>
 
