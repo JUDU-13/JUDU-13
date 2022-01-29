@@ -30,13 +30,14 @@
 
 
 ## Programming Languages
+<p align="center">
 <img src="https://img.icons8.com/color/80/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/80/000000/java-coffee-cup-logo--v2.png"/>
 <img src="https://img.icons8.com/color/80/000000/python--v2.png"/>
 <img src="https://img.icons8.com/color/80/000000/c-programming.png"/>
 <img src="https://img.icons8.com/plasticine/80/000000/microsoft-visual-basic-6.png"/>
 <img src="https://img.icons8.com/color/80/000000/kotlin.png"/>
-
+</p>
 <br/>
 
 
