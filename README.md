@@ -14,6 +14,7 @@
 <a href="https://www.snapchat.com/add/judu_13?share_id=zmwOVsIBiCA&locale=en-IN"><img src="https://img.icons8.com/bubbles/60/000000/snapchat--v2.png"/></a>
 <a href="https://www.reddit.com/u/JUDU_13?utm_medium=android_app&utm_source=share"><img src="https://img.icons8.com/bubbles/60/000000/reddit--v2.png"/></a>
 <a href="https://wa.me/+919074802552"><img src="https://img.icons8.com/bubbles/60/000000/whatsapp.png"/></a>
+<a href="https://www.discordapp.com/users/JAIDON-GILL-SHAJAN#2817"><img src="https://img.icons8.com/bubbles/60/000000/discord.png"/></a>
 </p>
 
 ## Tools
@@ -40,7 +41,7 @@
 <br/>
 
 
-![](https://komarev.com/ghpvc/?username=JUDU-13&color=blueviolet)
+![Visitor Count](https://profile-counter.glitch.me/{JUDU-13}/count.svg)
 
 
 
