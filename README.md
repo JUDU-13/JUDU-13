@@ -40,6 +40,21 @@
 </p>
 <br/>
 
+## 🔥Streak Stats
+
+<br>
+<p align=center>
+  <div align=center>
+    <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=JUDU-13&theme=react&hide_border=true&bg_color=0D1117" alt="JUDU-13" />
+    <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=JUDU-13&show_icons=true&count_private=true&theme=react&border_color=61dafb&hide_border=true&count_private=true&show_icons=false" />
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JUDU-13&show_icons=true&count_private=true&langs_count=10&hide=ruby&locale=en&layout=compact&hide_border=true&theme=react" alt="JUDU-13" />
+	</div>
+	</p>
+
+
 ## Profile Views
 ![Visitor Count](https://profile-counter.glitch.me/{JUDU-13}/count.svg)
 
