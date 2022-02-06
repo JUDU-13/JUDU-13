@@ -54,9 +54,9 @@
 	</div>
 	</p>
 
-  
+## ⚡ Recent GitHub Activity
   <br/>
-   <a href="https://github.com/JUDU-13"><img alt="Aiswarya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JUDU-13&custom_title=Jaidon Gill%20Shajan's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/JUDU-13"><img alt="Jaidon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JUDU-13&custom_title=Jaidon Gill%20Shajan's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
