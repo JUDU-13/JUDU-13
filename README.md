@@ -26,6 +26,12 @@
 <img src="https://img.icons8.com/ios-filled/80/000000/obs-studio.png"/>
 <img src="https://img.icons8.com/color/80/000000/audacity.png"/>
 <img src="https://img.icons8.com/ios-filled/80/000000/unity.png"/>
+<img src="https://img.icons8.com/fluency/512/matlab.png"/>
+<img src="https://img.icons8.com/fluency/512/jupyter.png"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/800px-Google_Colaboratory_SVG_Logo.svg.png?20221103151432"/>
+<img src="https://icons8.com/icon/8gfeOoqrHqJU/figma"/>
+<img src="https://icons8.com/icon/65231/blender-3d"/>
+<img src="https://icons8.com/icon/117121/pycharm"/>
 </p>
 
 
@@ -37,6 +43,7 @@
 <img src="https://img.icons8.com/color/80/000000/c-programming.png"/>
 <img src="https://img.icons8.com/plasticine/80/000000/microsoft-visual-basic-6.png"/>
 <img src="https://img.icons8.com/color/80/000000/kotlin.png"/>
+<img src="https://icons8.com/icon/GiEnpsBVEIYZ/xml"/>
 </p>
 <br/>
 
