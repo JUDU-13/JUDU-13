@@ -9,7 +9,7 @@
 <p align="center">
 <a href="http://instagram.com/_judu_13"><img src="https://img.icons8.com/bubbles/60/000000/instagram-new--v2.png"/></a>
 <a href="https://www.facebook.com/JRJ013"><img src="https://img.icons8.com/bubbles/60/000000/facebook-new--v2.png"/></a>
-<a href="https://twitter.com/_judu_13?t=x_BOU1DRm90w6xwEPwJmww&s=09"><img src="https://img.icons8.com/bubbles/60/000000/twitter--v2.png"/></a>
+<a href="https://twitter.com/_judu_13"><img src="https://img.icons8.com/bubbles/60/null/twitter-circled.png"/></a>
 <a href="https://www.linkedin.com/in/jaidon-gill-shajan-7360791a8"><img src="https://img.icons8.com/bubbles/60/000000/linkedin--v2.png"/></a>
 <a href="https://www.snapchat.com/add/judu_13?share_id=zmwOVsIBiCA&locale=en-IN"><img src="https://img.icons8.com/bubbles/60/000000/snapchat--v2.png"/></a>
 <a href="https://www.reddit.com/u/JUDU_13?utm_medium=android_app&utm_source=share"><img src="https://img.icons8.com/bubbles/60/000000/reddit--v2.png"/></a>
@@ -26,7 +26,9 @@
 <img src="https://img.icons8.com/ios-filled/80/000000/obs-studio.png"/>
 <img src="https://img.icons8.com/color/80/000000/audacity.png"/>
 <img src="https://img.icons8.com/ios-filled/80/000000/unity.png"/>
-
+<img src="https://img.icons8.com/fluency/80/null/jupyter.png"/>
+<img src="https://img.icons8.com/fluency/80/null/matlab.png"/>
+<img src="https://img.icons8.com/color/80/null/figma--v1.png"/>
 </p>
 
 
@@ -38,7 +40,8 @@
 <img src="https://img.icons8.com/color/80/000000/c-programming.png"/>
 <img src="https://img.icons8.com/plasticine/80/000000/microsoft-visual-basic-6.png"/>
 <img src="https://img.icons8.com/color/80/000000/kotlin.png"/>
-
+<img src="https://img.icons8.com/color/80/null/tensorflow.png"/>
+<img src="https://img.icons8.com/windows/80/null/xml-file.png"/>
 </p>
 <br/>
 
