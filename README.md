@@ -19,35 +19,35 @@
 
 ## Tools
 <p align="center">
-<img src="https://img.icons8.com/color/80/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/80/000000/adobe-premiere-pro--v1.png"/>
-<img src="https://img.icons8.com/color/80/000000/adobe-after-effects--v1.png"/>
-<img src="https://img.icons8.com/color/80/000000/davinci-resolve--v1.png"/>
-<img src="https://img.icons8.com/ios-filled/80/000000/obs-studio.png"/>
-<img src="https://img.icons8.com/color/80/000000/audacity.png"/>
-<img src="https://img.icons8.com/ios-filled/80/000000/unity.png"/>
-<img src="https://img.icons8.com/fluency/80/null/jupyter.png"/>
-<img src="https://img.icons8.com/fluency/80/null/matlab.png"/>
-<img src="https://img.icons8.com/color/80/null/figma--v1.png"/>
-<img src="https://img.icons8.com/color/80/null/blender-3d.png"/>
-<img src="https://img.icons8.com/color/80/null/pycharm.png"/>
-<img src="https://img.icons8.com/fluency/80/null/anaconda--v2.png"/>	
-<img src="https://img.icons8.com/color/80/null/linux--v1.png"/>	
+<img src="https://img.icons8.com/color/60/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/60/000000/adobe-premiere-pro--v1.png"/>
+<img src="https://img.icons8.com/color/60/000000/adobe-after-effects--v1.png"/>
+<img src="https://img.icons8.com/color/60/000000/davinci-resolve--v1.png"/>
+<img src="https://img.icons8.com/ios-filled/60/000000/obs-studio.png"/>
+<img src="https://img.icons8.com/color/60/000000/audacity.png"/>
+<img src="https://img.icons8.com/ios-filled/60/000000/unity.png"/>
+<img src="https://img.icons8.com/fluency/60/null/jupyter.png"/>
+<img src="https://img.icons8.com/fluency/60/null/matlab.png"/>
+<img src="https://img.icons8.com/color/60/null/figma--v1.png"/>
+<img src="https://img.icons8.com/color/60/null/blender-3d.png"/>
+<img src="https://img.icons8.com/color/60/null/pycharm.png"/>
+<img src="https://img.icons8.com/fluency/60/null/anaconda--v2.png"/>	
+<img src="https://img.icons8.com/color/60/null/linux--v1.png"/>	
 </p>
 
 
 ## Programming Languages
 <p align="center">
-<img src="https://img.icons8.com/color/80/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/80/000000/java-coffee-cup-logo--v2.png"/>
-<img src="https://img.icons8.com/color/80/000000/python--v2.png"/>
-<img src="https://img.icons8.com/color/80/000000/c-programming.png"/>
-<img src="https://img.icons8.com/plasticine/80/000000/microsoft-visual-basic-6.png"/>
-<img src="https://img.icons8.com/color/80/000000/kotlin.png"/>
-<img src="https://img.icons8.com/color/80/null/tensorflow.png"/>
-<img src="https://img.icons8.com/windows/80/null/xml-file.png"/>
-<img src="https://img.icons8.com/fluency/80/null/r-project.png"/>
-<img src="https://img.icons8.com/color/80/null/c-sharp-logo-2.png"/>	
+<img src="https://img.icons8.com/color/60/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/60/000000/java-coffee-cup-logo--v2.png"/>
+<img src="https://img.icons8.com/color/60/000000/python--v2.png"/>
+<img src="https://img.icons8.com/color/60/000000/c-programming.png"/>
+<img src="https://img.icons8.com/plasticine/60/000000/microsoft-visual-basic-6.png"/>
+<img src="https://img.icons8.com/color/60/000000/kotlin.png"/>
+<img src="https://img.icons8.com/color/60/null/tensorflow.png"/>
+<img src="https://img.icons8.com/windows/60/null/xml-file.png"/>
+<img src="https://img.icons8.com/fluency/60/null/r-project.png"/>
+<img src="https://img.icons8.com/color/60/null/c-sharp-logo-2.png"/>	
 </p>
 <br/>
 
