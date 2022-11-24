@@ -29,6 +29,9 @@
 <img src="https://img.icons8.com/fluency/80/null/jupyter.png"/>
 <img src="https://img.icons8.com/fluency/80/null/matlab.png"/>
 <img src="https://img.icons8.com/color/80/null/figma--v1.png"/>
+<img src="https://img.icons8.com/color/80/null/blender-3d.png"/>
+<img src="https://img.icons8.com/color/80/null/pycharm.png"/>
+<img src="https://img.icons8.com/fluency/80/null/anaconda--v2.png"/>	
 </p>
 
 
@@ -42,6 +45,8 @@
 <img src="https://img.icons8.com/color/80/000000/kotlin.png"/>
 <img src="https://img.icons8.com/color/80/null/tensorflow.png"/>
 <img src="https://img.icons8.com/windows/80/null/xml-file.png"/>
+<img src="https://img.icons8.com/fluency/80/null/r-project.png"/>
+<img src="https://img.icons8.com/color/80/null/c-sharp-logo-2.png"/>	
 </p>
 <br/>
 
