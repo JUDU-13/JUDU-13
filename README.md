@@ -32,6 +32,7 @@
 <img src="https://img.icons8.com/color/80/null/blender-3d.png"/>
 <img src="https://img.icons8.com/color/80/null/pycharm.png"/>
 <img src="https://img.icons8.com/fluency/80/null/anaconda--v2.png"/>	
+<img src="https://img.icons8.com/color/80/null/linux--v1.png"/>	
 </p>
 
 
