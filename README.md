@@ -74,7 +74,12 @@
 
 
 ## Profile Views
-![Visitor Count](https://profile-counter.glitch.me/{JUDU-13}/count.svg)
+![Total Coding Time](http://img.shields.io/badge/Total%20Coding%20Time-1,608%20hours%20~%2067%20days-blue)
+
+![Lines of Codes](https://img.shields.io/badge/Lines%20of%20code%20written-36,868-blue)
+
+![Profile views](https://gpvc.arturio.dev/JUDU-13)
+
 
 
 
