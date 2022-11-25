@@ -33,6 +33,7 @@
 <img src="https://img.icons8.com/color/60/null/pycharm.png"/>
 <img src="https://img.icons8.com/fluency/60/null/anaconda--v2.png"/>	
 <img src="https://img.icons8.com/color/60/null/linux--v1.png"/>	
+<img src="https://img.icons8.com/color/60/null/android-studio--v2.png"/>
 </p>
 
 
