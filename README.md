@@ -23,9 +23,9 @@
 <img src="https://img.icons8.com/color/60/000000/adobe-premiere-pro--v1.png"/>
 <img src="https://img.icons8.com/color/60/000000/adobe-after-effects--v1.png"/>
 <img src="https://img.icons8.com/color/60/000000/davinci-resolve--v1.png"/>
-<img src="https://img.icons8.com/ios-filled/60/000000/obs-studio.png"/>
+<img src="https://img.icons8.com/nolan/64/obs-studio.png"/>
 <img src="https://img.icons8.com/color/60/000000/audacity.png"/>
-<img src="https://img.icons8.com/ios-filled/60/000000/unity.png"/>
+<img src="https://img.icons8.com/nolan/60/unity.png"/>
 <img src="https://img.icons8.com/fluency/60/null/jupyter.png"/>
 <img src="https://img.icons8.com/fluency/60/null/matlab.png"/>
 <img src="https://img.icons8.com/color/60/null/figma--v1.png"/>
