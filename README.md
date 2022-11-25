@@ -45,7 +45,7 @@
 <img src="https://img.icons8.com/plasticine/60/000000/microsoft-visual-basic-6.png"/>
 <img src="https://img.icons8.com/color/60/000000/kotlin.png"/>
 <img src="https://img.icons8.com/color/60/null/tensorflow.png"/>
-<img src="https://img.icons8.com/windows/60/null/xml-file.png"/>
+<img src="https://img.icons8.com/color/60/null/xml.png"/>
 <img src="https://img.icons8.com/fluency/60/null/r-project.png"/>
 <img src="https://img.icons8.com/color/60/null/c-sharp-logo-2.png"/>	
 <img src="https://img.icons8.com/officel/60/null/xaml.png"/>
