@@ -5,7 +5,7 @@
 * Programmer 
 * Video Editor
 * Currently Learning Prolog, Python,Premiere Pro, After Effects, DaVinci Resolve .
-(https://holopin.me/judu_13)](https://holopin.io/@judu_13)
+[![@judu_13's Holopin board](https://holopin.me/judu_13)](https://holopin.io/@judu_13)
 ## Contact Me
 <p align="center">
 <a href="http://instagram.com/_judu_13"><img src="https://img.icons8.com/bubbles/60/000000/instagram-new--v2.png"/></a>
