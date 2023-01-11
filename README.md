@@ -1,7 +1,7 @@
 [![JUDU](bla.svg)](https://github.com/JUDU-13)
 
 ## Hello Guys🥳👨‍💻 , I'm Jaidon Gill Shajan
-* Currently persuing Btech in Artificial Intelligence and Data Science
+* Currently perusing Btech in Artificial Intelligence and Data Science
 * Programmer 
 * Video Editor
 * Currently Learning Prolog, Python,Premiere Pro, After Effects, DaVinci Resolve .
