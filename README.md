@@ -82,7 +82,7 @@
 ![Profile views](https://gpvc.arturio.dev/JUDU-13)
 
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="80" /><b>Git profile Trophies</b></h4></p><br>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="100" /><b>Git profile Trophies</b></h4></p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=JUDU-13&theme=gruvbox" />
 
 
