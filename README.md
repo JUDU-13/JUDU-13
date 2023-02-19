@@ -50,7 +50,8 @@
 <img src="https://img.icons8.com/fluency/60/null/r-project.png"/>
 <img src="https://img.icons8.com/color/60/null/c-sharp-logo-2.png"/>	
 <img src="https://img.icons8.com/officel/60/null/xaml.png"/>
-<img src="https://img.icons8.com/color/60/null/css3.png"/>	
+<img src="https://img.icons8.com/color/60/null/css3.png"/>
+<img src="https://img.icons8.com/fluency/60/null/opencv.png"/>	
 </p>
 <br/>
 
