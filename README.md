@@ -1,7 +1,7 @@
 [![JUDU](bla.svg)](https://github.com/JUDU-13)
 
 ## Hello Guys🥳👨‍💻 , I'm Jaidon Gill Shajan
-* Currently perusing Btech in Artificial Intelligence and Data Science
+* Artificial Intelligence and Data Science Engineer
 * Programmer 
 * Video Editor
 [![@judu_13's Holopin board](https://holopin.me/judu_13)](https://holopin.io/@judu_13)
